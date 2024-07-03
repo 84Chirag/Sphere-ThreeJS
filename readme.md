@@ -1,4 +1,15 @@
-   <h1>Sphere Three.js Animation</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sphere Three.js Animation</title>
+    </style>
+</head>
+
+<body>
+    <h1>Sphere Three.js Animation</h1>
 
     <img src="./src/assets/threejs.png" alt="Sphere Animation">
 
@@ -52,3 +63,6 @@
     <footer>
         Created by Your Name &ndash; <a href="https://github.com/your-username">GitHub Profile</a>
     </footer>
+</body>
+
+</html>
